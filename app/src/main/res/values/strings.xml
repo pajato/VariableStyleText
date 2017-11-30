@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VariableStyleText</string>
+    <string name="html_appears_here">HTML Appears Here!</string>
+    <string name="enter_html_here">Enter HTML Here.</string>
+    <string name="submit">Submit</string>
+    <string name="some_bold_text"><![CDATA[Some <b>bold</b> text]]></string>
+</resources>
